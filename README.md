@@ -1,3 +1,4 @@
+
 # GitHub Digital-Portfolio
 
 My name is <b>Musa Maswanganyi</b>, and I am a passionate and driven third-year Information and Communication Technology student. I have hands-on experience in network engineering, computer systems, programming, and technical support.
@@ -5,6 +6,7 @@ My name is <b>Musa Maswanganyi</b>, and I am a passionate and driven third-year 
 <h2>👨‍💻 Professional Practice Work Compilation:</h2>
 <h2>📌 Table of Contents</h2>
 
+ Root
 - [Career Development](#career-development)
 - [Skills and Interests](#skills-and-interests)
 - [Personality Assessment](#personality-assessment)
@@ -12,6 +14,20 @@ My name is <b>Musa Maswanganyi</b>, and I am a passionate and driven third-year 
 - [Curriculum Vitae Submission](#curriculum-vitae-submission)
 
 <b><h3>💼Career Development</b></h3>
+
+
+ [Career Development](#career-development)
+ 
+ [Skills and Interests](#skills-and-interests)
+ 
+ [Personality Assessment](#personality-assessment)
+ 
+ [Create a Curriculum Vitae]( create-a-curriculum-vitae)
+ 
+ [Curriculum Vitae Submission](#curriculum-vitae-submission)
+
+<b><h3>💼Career Development</b></h3>
+
 
 * Created a personal career road map with a clear career objective.
 * Learnt about the difference between a career and a job.
