@@ -6,11 +6,15 @@ My name is <b>Musa Maswanganyi</b>, and I am a passionate and driven third-year 
 <h2>👨‍💻 Professional Practice Work Compilation:</h2>
 <h2>📌 Table of Contents</h2>
 
-- [Career Development](#career-development)
-- [Skills and Interests](#skills-and-interests)
-- [Personality Assessment](#personality-assessment)
-- [Create a Curriculum Vitae]( create-a-curriculum-vitae)
-- [Curriculum Vitae Submission](#curriculum-vitae-submission)
+ [Career Development](#career-development)
+ 
+ [Skills and Interests](#skills-and-interests)
+ 
+ [Personality Assessment](#personality-assessment)
+ 
+ [Create a Curriculum Vitae]( create-a-curriculum-vitae)
+ 
+ [Curriculum Vitae Submission](#curriculum-vitae-submission)
 
 <b><h3>💼Career Development</b></h3>
 
