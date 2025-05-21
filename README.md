@@ -3,12 +3,9 @@
 
 My name is <b>Musa Maswanganyi</b>, and I am a passionate and driven third-year Information and Communication Technology student. I have hands-on experience in network engineering, computer systems, programming, and technical support.
 
-<h2>👨‍💻 Professional Practice Work Compilation:</h2>
-<h2>📌 Table of Contents</h2>
+<h2><b></b>👨‍💻 Professional Practice Work Compilation:</b</h2>
 
-
-<b><h3>💼Career Development</b></h3>
-
+<h3>📌 Table of Contents</h3>
 
  [Career Development](#career-development)
  
