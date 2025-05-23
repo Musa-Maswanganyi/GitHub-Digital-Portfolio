@@ -120,7 +120,7 @@ The final version is well-organized and clearly presents my skills, experience, 
 
 ## 🌐 Curriculum Vitae Submission
 
-[Musa Maswanganyi CV (PDF)](docs/Musa%20Maswanganyi%20CV.pdf)
+[Musa Maswanganyi CV (PDF)](docs/Musa%20Maswanganyi%20Resume.pdf)
 <ul>
   <li>My CV is included and linked in this GitHub portfolio.</li> 
 </ul>
