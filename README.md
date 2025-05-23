@@ -121,8 +121,9 @@ The final version is well-organized and clearly presents my skills, experience, 
 ## 🌐 Curriculum Vitae Submission
 
 <ul>
-  <li>My CV is included and linked in this GitHub portfolio.</li> 📄  [Musa Maswanganyi CV ](Musa%20Maswanganyi%20Resume.pdf)
+  <li>My CV is included and linked in this GitHub portfolio.</li>
 </ul>
+📄 [Download My CV (PDF)](Musa%20Maswanganyi%20Resume.pdf)<br/>
 
 **🧠 Reflection – STAR Technique**
 
