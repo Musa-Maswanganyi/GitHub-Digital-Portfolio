@@ -164,5 +164,5 @@ Throughout this journey, I developed a better understanding of myself and my car
 <img src="Create%20CV.png" width="500" alt="CV Creation Evidence"/>
 
 ---
- [Download My CV (PDF)](docs/Musa%20Maswanganyi%20CV.pdf)
+
 > © 2025 Musa Maswanganyi – Work Readiness Portfolio
