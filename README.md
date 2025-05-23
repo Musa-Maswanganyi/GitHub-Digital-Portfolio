@@ -98,6 +98,7 @@ I completed a personality assessment and explored how different personality type
 
 <b>R – Result:</b>  
 I found that I prefer structure, planning, and independent technical problem-solving.
+
 ---
 
 ## 📄 Create a Curriculum Vitae
