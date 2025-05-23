@@ -120,10 +120,11 @@ The final version is well-organized and clearly presents my skills, experience, 
 
 ## 🌐 Curriculum Vitae Submission
 
+[Musa Maswanganyi CV (PDF)](docs/Musa%20Maswanganyi%20CV.pdf)
 <ul>
-  <li>My CV is included and linked in this GitHub portfolio.</li>
+  <li>My CV is included and linked in this GitHub portfolio.</li> 
 </ul>
-📄 [Download My CV (PDF)](Musa%20Maswanganyi%20Resume.pdf)<br/>
+ ##
 
 **🧠 Reflection – STAR Technique**
 
@@ -162,5 +163,5 @@ Throughout this journey, I developed a better understanding of myself and my car
 <img src="Create%20CV.png" width="500" alt="CV Creation Evidence"/>
 
 ---
-
+ [Download My CV (PDF)](docs/Musa%20Maswanganyi%20CV.pdf)
 > © 2025 Musa Maswanganyi – Work Readiness Portfolio
